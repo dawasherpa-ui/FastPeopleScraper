@@ -1,0 +1,6 @@
+2024/02/14-16:39:36.210 21a0 Creating DB C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\WebStorage\6\IndexedDB\indexeddb.leveldb since it was missing.
+2024/02/14-16:39:36.226 21a0 Reusing MANIFEST C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\WebStorage\6\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/02/14-16:39:58.202 1cac Level-0 table #5: started
+2024/02/14-16:39:58.206 1cac Level-0 table #5: 6311 bytes OK
+2024/02/14-16:39:58.212 1cac Delete type=0 #3
+2024/02/14-16:39:58.213 1cac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

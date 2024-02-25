@@ -1,0 +1,27 @@
+2024/02/14-16:07:23.183 8d0 Reusing MANIFEST C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/14-16:07:23.187 8d0 Recovering log #17
+2024/02/14-16:07:23.193 8d0 Reusing old log C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\Local Storage\leveldb/000017.log 
+2024/02/14-16:32:44.954 7e4 Level-0 table #22: started
+2024/02/14-16:32:44.968 7e4 Level-0 table #22: 17374 bytes OK
+2024/02/14-16:32:44.981 7e4 Delete type=0 #17
+2024/02/14-16:36:43.758 7e4 Level-0 table #24: started
+2024/02/14-16:36:43.767 7e4 Level-0 table #24: 6028 bytes OK
+2024/02/14-16:36:43.775 7e4 Delete type=0 #21
+2024/02/14-16:38:34.176 7e4 Level-0 table #26: started
+2024/02/14-16:38:34.185 7e4 Level-0 table #26: 5922 bytes OK
+2024/02/14-16:38:34.189 7e4 Delete type=0 #23
+2024/02/14-16:40:13.363 8d0 Level-0 table #28: started
+2024/02/14-16:40:13.382 8d0 Level-0 table #28: 50461 bytes OK
+2024/02/14-16:40:13.425 8d0 Delete type=0 #25
+2024/02/14-16:40:13.429 8d0 Compacting 4@0 + 1@1 files
+2024/02/14-16:40:13.443 8d0 Generated table #29@0: 652 keys, 11599 bytes
+2024/02/14-16:40:13.443 8d0 Compacted 4@0 + 1@1 files => 11599 bytes
+2024/02/14-16:40:13.445 8d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/14-16:40:13.446 8d0 Delete type=2 #19
+2024/02/14-16:40:13.446 8d0 Delete type=2 #22
+2024/02/14-16:40:13.447 8d0 Delete type=2 #24
+2024/02/14-16:40:13.447 8d0 Delete type=2 #26
+2024/02/14-16:40:13.447 8d0 Delete type=2 #28
+2024/02/14-17:20:00.126 7e4 Level-0 table #31: started
+2024/02/14-17:20:00.139 7e4 Level-0 table #31: 19373 bytes OK
+2024/02/14-17:20:00.144 7e4 Delete type=0 #27

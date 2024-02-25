@@ -1,0 +1,17 @@
+2024/02/14-16:07:23.596 8d0 Reusing MANIFEST C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\Session Storage/MANIFEST-000001
+2024/02/14-16:07:23.597 8d0 Recovering log #12
+2024/02/14-16:07:23.601 8d0 Reusing old log C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\Session Storage/000012.log 
+2024/02/14-16:37:55.215 8d0 Level-0 table #16: started
+2024/02/14-16:37:55.351 8d0 Level-0 table #16: 23255 bytes OK
+2024/02/14-16:37:55.370 8d0 Delete type=0 #12
+2024/02/14-16:37:55.378 8d0 Compacting 4@0 + 0@1 files
+2024/02/14-16:37:55.544 8d0 Generated table #17@0: 1165 keys, 30638 bytes
+2024/02/14-16:37:55.544 8d0 Compacted 4@0 + 0@1 files => 30638 bytes
+2024/02/14-16:37:55.549 8d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/14-16:37:55.551 8d0 Delete type=2 #7
+2024/02/14-16:37:55.551 8d0 Delete type=2 #10
+2024/02/14-16:37:55.551 8d0 Delete type=2 #13
+2024/02/14-16:37:55.551 8d0 Delete type=2 #16
+2024/02/14-17:16:25.963 7e4 Level-0 table #19: started
+2024/02/14-17:16:25.974 7e4 Level-0 table #19: 23542 bytes OK
+2024/02/14-17:16:25.982 7e4 Delete type=0 #15

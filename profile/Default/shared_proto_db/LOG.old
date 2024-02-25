@@ -1,0 +1,4 @@
+2024/02/14-16:05:37.148 14f4 Reusing MANIFEST C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\shared_proto_db/MANIFEST-000001
+2024/02/14-16:05:37.149 14f4 Recovering log #3
+2024/02/14-16:05:37.153 14f4 (ignoring error) C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\shared_proto_db/000003.log: dropping 9148 bytes; Corruption: checksum mismatch
+2024/02/14-16:05:37.153 14f4 Reusing old log C:\Users\jamud\OneDrive\Desktop\Dawa coding\py\fastpeoplesearch.com-scraper\profile\Default\shared_proto_db/000003.log 
